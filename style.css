@@ -43,7 +43,7 @@ body {
   }
 
   .glitch-effect::after {
-      color: #0f0;
+      color: #7b18ed;
       z-index: 2;
   }
 
